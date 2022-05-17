@@ -236,8 +236,8 @@ li {
 					<%} else {%>
 					<%=dvo.getDiary().replace(".", ".<br>")%><br>
 					<%}%>
-					<span>±‡¡§<%=good%>%
-						∫Œ¡§<%=bad%>%
+					<span>[ ±‡¡§<%=good%>% /
+						∫Œ¡§<%=bad%>% ]
 					</span>
 				</div>
 				<div>

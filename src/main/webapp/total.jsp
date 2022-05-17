@@ -465,7 +465,7 @@ List<DiaryVO> list = (List<DiaryVO>) request.getAttribute("list");
 			         if(rate[i]>=50){
 			               curr_date = $("<td class='table-date'>"+day+"<br><div style='display:inline-block;background-color:#18A8F1; width:10px;height:10px;border-radius:50%;'></div>"+"</td>");
 			            }else{
-			            curr_date = $("<td class='table-date'>"+day+"<br><div style='display:inline-block;background-color:#FD8A69; width:10px;height:10px;border-radius:50%;'></div>"+"</td>");
+			            curr_date = $("<td class='table-date'>"+day+"<br><div style='display:inline-block;background-color:#18A8F1; width:10px;height:10px;border-radius:50%;'></div>"+"</td>");
 			         }        
 			//////////////////////////////////////////////////////////////////////////////////////////////////
 			            
