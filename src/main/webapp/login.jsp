@@ -136,7 +136,7 @@ li {
 		</article>
 
 		<div id="new-icon">
-			<a href="total.jsp" class="icon"><img src="images/002.png"
+			<a href="TotalService" class="icon"><img src="images/002.png"
 				style="width: 400px;"></a> <a href="diary.jsp" class="icon"><img
 				src="images/001.png" style="width: 400px;"></a> <a href="MyService"
 				class="icon"><img src="images/003.png" style="width: 400px;"></a>
